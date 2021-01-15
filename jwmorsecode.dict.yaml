@@ -1,0 +1,43 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: jw_morse_code
+version: "2020.01"
+sort: original
+...
+
+·-  a
+-··· b
+-·-· c
+-·· d
+· e
+··-·  f
+--· g
+····  h
+··  i
+·---  j
+-·- k
+·-··  l
+--  m
+-·  n
+--- o
+·--·  p
+--·-  q
+·-· r
+··· s
+- t
+··- u
+···-  v
+·-- w
+-··-  x
+-·--  y
+--··  z 
+·-·-· ar
+·-··· as
+-·- k
+···-·-  sk
+-···- bt
+···-· sendlastagain
+·· ·· thesame
+········  wrong
