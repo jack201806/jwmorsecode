@@ -50,7 +50,7 @@ engine:
     - uniquifier
 
 translator:
-  dictionary: jw_morse_code
+  dictionary: jwmorsecode
 
 punctuator:
   import_preset: default
